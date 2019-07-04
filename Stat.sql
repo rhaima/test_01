@@ -35,4 +35,4 @@ where nom_magasin in ('ALDI Brioude','ALDI Montbrison','ALDI Romans-sur-Isère')
 
 group by  nom_magasin,date_
 order by 1,2
-
+/*select * from viste */
